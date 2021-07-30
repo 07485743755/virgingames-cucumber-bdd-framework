@@ -1,0 +1,37 @@
+2021-07-28 11:07:922 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-28 11:07:320 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-28 11:07:545 INFO  HomePage :18 - Click on the login Link : [[ChromeDriver: chrome on WINDOWS (644f19d6b797a9e0cdfedcf4938be099)] -> xpath: //a[contains(text(),'Login')]]
+2021-07-28 11:07:822 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-28 11:07:146 INFO  HomePage :18 - Click on the login Link : [[ChromeDriver: chrome on WINDOWS (388e1face14f0dd1ac1608e49d597b64)] -> xpath: //a[contains(text(),'Login')]]
+2021-07-28 11:07:888 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-28 11:07:22 INFO  HomePage :18 - Click on the login Link : [[ChromeDriver: chrome on WINDOWS (9381f6e4e4d7f4897495234f926e2dc6)] -> xpath: //a[contains(text(),'Login')]]
+2021-07-28 11:07:318 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-28 11:07:830 INFO  HomePage :18 - Click on the login Link : [[ChromeDriver: chrome on WINDOWS (2aefe564a40f82f77cda6981b9f9f39a)] -> xpath: //a[contains(text(),'Login')]]
+2021-07-28 11:07:459 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-28 11:07:50 INFO  HomePage :18 - Click on the login Link : [[ChromeDriver: chrome on WINDOWS (bfed8d024edb3e6ecf55fccf8e54a999)] -> xpath: //a[contains(text(),'Login')]]
+2021-07-28 12:07:419 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-28 12:07:266 INFO  HomePage :18 - Click on the login Link : [[ChromeDriver: chrome on WINDOWS (4564dbb28b5a3e04b0313cb8a82dedda)] -> xpath: //a[contains(text(),'Login')]]
+2021-07-28 22:07:744 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-28 22:07:362 INFO  HomePage :18 - Click on the login Link : [[ChromeDriver: chrome on WINDOWS (ec7d3e86445958aa56d82a4be7fda8d8)] -> xpath: //a[contains(text(),'Login')]]
+2021-07-28 22:07:949 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-28 22:07:619 INFO  HomePage :18 - Click on the login Link : [[ChromeDriver: chrome on WINDOWS (5a2fe6cd2d807130bd70641c0a93eb6a)] -> xpath: //a[contains(text(),'Login')]]
+2021-07-28 22:07:875 INFO  BasePage :36 - Launching FireFox Browser 
+2021-07-28 22:07:995 INFO  HomePage :18 - Click on the login Link : [[FirefoxDriver: firefox on WINDOWS (2c21ec56-6c4c-466d-93a8-c856494c8356)] -> xpath: //a[contains(text(),'Login')]]
+2021-07-28 22:07:993 INFO  BasePage :36 - Launching FireFox Browser 
+2021-07-28 22:07:878 INFO  HomePage :18 - Click on the login Link : [[FirefoxDriver: firefox on WINDOWS (b09909a0-34e5-434f-b978-b9405e126e7f)] -> xpath: //a[contains(text(),'Login')]]
+2021-07-29 10:07:216 INFO  BasePage :36 - Launching FireFox Browser 
+2021-07-29 10:07:901 INFO  HomePage :18 - Click on the login Link : [[FirefoxDriver: firefox on WINDOWS (64cec04f-8878-4648-8195-701b8a87826f)] -> xpath: //a[contains(text(),'Login')]]
+2021-07-29 10:07:678 INFO  BasePage :36 - Launching FireFox Browser 
+2021-07-29 10:07:705 INFO  HomePage :18 - Click on the login Link : [[FirefoxDriver: firefox on WINDOWS (bf68f594-33b0-4fca-8f6f-5603a6d4e128)] -> xpath: //a[contains(text(),'Login')]]
+2021-07-29 10:07:610 INFO  BasePage :36 - Launching FireFox Browser 
+2021-07-29 10:07:686 INFO  HomePage :18 - Click on the login Link : [[FirefoxDriver: firefox on WINDOWS (b4902ede-9852-4b9e-bb72-96a573e50b54)] -> xpath: //a[contains(text(),'Login')]]
+2021-07-29 15:07:932 INFO  BasePage :36 - Launching FireFox Browser 
+2021-07-29 15:07:922 INFO  HomePage :18 - Click on the login Link : [[FirefoxDriver: firefox on WINDOWS (e6911137-4707-44a7-8a70-c6b78d09b746)] -> xpath: //a[contains(text(),'Login')]]
+2021-07-29 18:07:342 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-29 18:07:331 INFO  HomePage :18 - Click on the login Link : [[ChromeDriver: chrome on WINDOWS (87441e012d2d63a52e405b9e88d76116)] -> xpath: //a[contains(text(),'Login')]]
+2021-07-29 18:07:472 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-29 18:07:183 INFO  HomePage :18 - Click on the login Link : [[ChromeDriver: chrome on WINDOWS (6d2263377a5f59336f76b2be15a5ff36)] -> xpath: //a[contains(text(),'Login')]]
+2021-07-29 18:07:642 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-29 18:07:340 INFO  HomePage :18 - Click on the login Link : [[ChromeDriver: chrome on WINDOWS (0d2f68b69cd728f8e7003f81a4cca2a1)] -> xpath: //a[contains(text(),'Login')]]
+2021-07-29 19:07:246 INFO  BasePage :32 - Launching Chrome Browser 
+2021-07-29 19:07:194 INFO  HomePage :18 - Click on the login Link : [[ChromeDriver: chrome on WINDOWS (b12457314cbab3aa501b1885aaa3452f)] -> xpath: //a[contains(text(),'Login')]]
